@@ -1,3 +1,7 @@
-<img width="280px" height="280px" src="https://github.com/maxludden/maxludden/assets/51646468/f77bbcf7-3208-4bd1-879f-e22a6b79438c" alt="Max Ludden's Logo" style="margin:auto;">
+<img width=70% height=70% src="https://github.com/maxludden/maxludden/assets/51646468/a35ba112-1ed0-4a54-b727-7aac540caa8f" alt="Max Ludden's Logo" style="margin:auto;">
 
-I'm Max. I'm a IC & PCB Layout Engineneer that's teaching myself python.
+# Max Ludden
+
+I'm a IC & PCB Layout Engineneer (mainly focusing on hardwar professinoally but interesed is software so I've been learning python for fun.
+
+Take a look at [MaxGradient](https://GitHub.com/maxludden/maxgradient) and see if you like it. It's a library built on rich, that allow the printing of gradient text to the console.
