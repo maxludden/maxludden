@@ -1,4 +1,4 @@
-![Max Ludden's Logo](https://github.com/maxludden/maxludden/assets/51646468/dff29293-4afb-40a5-8e1a-275108898845]
+![Max Ludden's Logo](https://github.com/maxludden/maxludden/assets/51646468/dff29293-4afb-40a5-8e1a-275108898845)
 
 # Max Ludden
 
