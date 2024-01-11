@@ -1,4 +1,4 @@
-<img width=70% height=70% src="https://github.com/maxludden/maxludden/assets/51646468/dff29293-4afb-40a5-8e1a-275108898845" alt="Max Ludden's Logo" style="margin-left:auto;margin-right:auto;">
+![Max Ludden's Logo](https://github.com/maxludden/maxludden/assets/51646468/dff29293-4afb-40a5-8e1a-275108898845]
 
 # Max Ludden
 
