@@ -1,7 +1,21 @@
-![Max Ludden's Logo](https://github.com/maxludden/maxludden/assets/51646468/dff29293-4afb-40a5-8e1a-275108898845)
+<style>
+h1 {
+    display: flex;
+    align-items: center;
+}
+h1 img {
+    margin-right: 10px;
+}
+</style>
 
-# Max Ludden
+![ludden.dev logo](Images/ludden.svg)
 
-I'm a PCB Layout Engineneer (mainly focusing on hardware professinoally) but interesed is software so I've been learning python for fun.
+<h1> <img src="Images/maxlogo.svg" alt="Max Ludden's logo" width=50px /> <span style="font-size:50px;">Maxwell Ludden</span></h1>
 
-Take a look at [`rich-gradient`](https://GitHub.com/maxludden/rich-gradient) and see if you like it. It's a library built on [rich](https://GitHub.com/textualize/rich) and [pydantic-extra-types](https://github.com/pydantic/pydantic-extra-types)'s Color class, that allows the printing of gradient text to the console.
+I'm a PCB Layout Engineer but a giant geek. Self taught python programmer working on learning the front-end.
+
+[![rich-gradient logo](https://raw.githubusercontent.com/maxludden/rich-gradient/f8cd84bba8037a1fc8a70391da39e9658f3a68d9/docs/img/rich-gradient.svg)](https://GitHub.com/maxludden/rich-gradient)
+
+Take a look at [`rich-gradient`](https://GitHub.com/maxludden/rich-gradient) and see if you like it.
+
+<img src="https://raw.githubusercontent.com/maxludden/rich-gradient/f8cd84bba8037a1fc8a70391da39e9658f3a68d9/docs/img/gradient.svg" alt="rich-gradient" style="padding:25px;" />
