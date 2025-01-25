@@ -1,12 +1,14 @@
-<style>
-h1 {
-    display: flex;
-    align-items: center;
-}
-h1 img {
-    margin-right: 10px;
-}
-</style>
+<head>
+    <style>
+        h1 {
+            display: flex;
+            align-items: center;
+        }
+        h1 img {
+            margin-right: 10px;
+        }
+    </style>
+</head>
 
 ![ludden.dev logo](Images/ludden.svg)
 
