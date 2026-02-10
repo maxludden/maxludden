@@ -29,7 +29,7 @@ Take a look at [`rich-gradient`](https://GitHub.com/maxludden/rich-gradient) and
     <p>Designed by Max Ludden</p>
     <br />
     <img
-        src="https://github.com/maxludden/maxludden/blob/876ab2e797621dc8039f56c3f819ad07665069fe/Images/maxlogo.svg"
+        src="https://github.com/maxludden/maxludden/blob/f3913ecf11f90c97435e2b55d2e43dadd51c1fe4/Images/MaxLogo-animated.svg"
         alt="Max Ludden's Logo"
         width="20%"
     />
