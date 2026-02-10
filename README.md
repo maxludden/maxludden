@@ -26,11 +26,14 @@ Take a look at [`rich-gradient`](https://GitHub.com/maxludden/rich-gradient) and
 <hr>
 
 <div align="center">
-    <p>Designed by Max Ludden</p>
+    <a href="https://github.com/maxludden/maxludden" style="text-decoration:none; color:inherit;">
+        <h2>Designed by Max Ludden</h2>
+    </a>
     <br />
-    <img
-        src="https://github.com/maxludden/maxludden/blob/f3913ecf11f90c97435e2b55d2e43dadd51c1fe4/Images/MaxLogo-animated.svg"
-        alt="Max Ludden's Logo"
-        width="20%"
-    />
+     <a href="https://github.com/maxludden/maxludden" style="text-decoration:none; color:inherit;">
+         <img
+            src="https://github.com/maxludden/maxludden/blob/f3913ecf11f90c97435e2b55d2e43dadd51c1fe4/Images/MaxLogo-animated.svg"
+            alt="Max Ludden's Logo"
+            width="20%"
+        />
 </div>
