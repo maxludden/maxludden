@@ -1,13 +1,21 @@
 
-<!-- ![ludden.dev logo](Images/ludden.svg) -->
-
+<div style="padding: 32px;">
+  <img
+    src="https://github.com/maxludden/maxludden/blob/d7ac512741b6bf3cdedae99e5b5106f9f96fcc8d/Images/generalizations-responsive.svg"
+    alt="Generalizations are always False"
+  />
+</div>
 
 <h1 style='display:flex; align-items:center;>
     <img style=" margin-right: 10px;" src="Images/maxlogo.svg" alt="Max Ludden's logo" width=50px />
     <span style="font-size:50px;">Maxwell Ludden</span>
 </h1>
 
-I'm a PCB Layout Engineer but a giant geek. Self taught python programmer working on learning the front-end.
+I'm a PCB Layout Engineer but a giant geek. Self taught python programmer that enjoys creating automations.
+
+Outside of work, I enjoy creating art, vector designs (like the [generalizations's image](https://github.com/maxludden/maxludden/blob/d7ac512741b6bf3cdedae99e5b5106f9f96fcc8d/Images/generalizations-responsive.svg) and my [MaxLogo](https://github.com/maxludden/maxludden/blob/d7ac512741b6bf3cdedae99e5b5106f9f96fcc8d/Images/maxlogo.svg),, socializing, and reading. I mainly program in Python, but always looking to learn something new!
+
+<hr />
 
 [![rich-gradient logo](Images/rich-gradient-banner.svg)](https://GitHub.com/maxludden/rich-gradient)
 
@@ -15,6 +23,14 @@ Take a look at [`rich-gradient`](https://GitHub.com/maxludden/rich-gradient) and
 
 <img src="Images/getting_started.svg" alt="rich-gradient" style="padding:25px;" />
 
-<div style="display:flex; flex-direction:column; align-items:center;">
-    <a href="https://GitHub.com/maxludden/rich-gradient">Made by Max Ludden</a>
-    <a href="https://GitHub.com/maxludden/rich-gradient"><img src="https://github.com/maxludden/maxludden/blob/gh-pages/Images/MaxLogo-animated.svg" alt="Max Ludden's animated logo" width="20%" /></a>
+<hr>
+
+<div align="center">
+    <p>Designed by Max Ludden</p>
+    <br />
+    <img
+        src="https://github.com/maxludden/maxludden/blob/876ab2e797621dc8039f56c3f819ad07665069fe/Images/maxlogo.svg"
+        alt="Max Ludden's Logo"
+        width="20%"
+    />
+</div>
